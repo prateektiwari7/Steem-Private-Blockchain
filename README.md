@@ -9,3 +9,4 @@ To setup Private chain in Steem Blockchain.
 4.The peer node config.ini file is as (see peer-node.ini)
 
 5.In order to change total supply of STEEM change the steemd/libraies/protocol/include/steemd/protocol (edit the config.hpp) else codee 
+
