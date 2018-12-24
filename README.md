@@ -10,3 +10,4 @@ To setup Private chain in Steem Blockchain.
 
 5.In order to change total supply of STEEM change the steemd/libraies/protocol/include/steemd/protocol (edit the config.hpp) else codee 
 
+
